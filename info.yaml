@@ -9,10 +9,10 @@ project:
 
   tiles: "1x1"
 
-  top_module:  "tt_um_alu8bit"
+  top_module:  "tt_um_aluiiit"
 
   source_files:
-    - "tt_um_alu8bit.v"
+    - "tt_um_aluiiit.v"
 
 
 pinout:
